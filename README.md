@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Gabriel Saito</h1>
-<h3 align="center">Desenvolvedor Backend | Estudante de Ciência de Dados</h3>
+<h3 align="center">Desenvolvedor FullStack </h3>
 <p align="center">📚 Cursando Graduação em Ciência de Dados</p>
 
 ---
